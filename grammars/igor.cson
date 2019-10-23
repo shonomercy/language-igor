@@ -56,6 +56,10 @@
       'name': 'keyword.control.igor'
     }
     {
+      'match': '(?i)\\b(elseif)\\b'
+      'name': 'keyword.control.igor'
+    }
+    {
       'match': '(?i)\\b(for)\\b'
       'name': 'keyword.control.igor'
     }
